@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BC6579AA-FB05-402F-B002-44B839AB2FC8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Umbrella</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BE37E4FE-D223-477D-BBA8-B044C45186F8</key>
+		<string>https://git.nerderylabs.com/BRAVO.iOS.CodeChallenge</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Umbrella.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BE37E4FE-D223-477D-BBA8-B044C45186F8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.nerderylabs.com/BRAVO.iOS.CodeChallenge</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BE37E4FE-D223-477D-BBA8-B044C45186F8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BE37E4FE-D223-477D-BBA8-B044C45186F8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BRAVO.iOS.CodeChallenge</string>
+		</dict>
+	</array>
+</dict>
+</plist>
